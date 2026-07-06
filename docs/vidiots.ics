@@ -1,0 +1,666 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//justin//vidiots-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:vidiots-4297603@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260708T020000Z
+DTEND:20260708T035300Z
+SUMMARY:The Furious
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Kenji Tanigaki\nDetails: https://vidiotsfoundation.org/movies/the-furious/\nTickets: https://vidiotsfoundation.org/purchase/4297603/
+URL:https://vidiotsfoundation.org/purchase/4297603/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297605@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260709T020000Z
+DTEND:20260709T035300Z
+SUMMARY:The Furious
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Kenji Tanigaki\nDetails: https://vidiotsfoundation.org/movies/the-furious/\nTickets: https://vidiotsfoundation.org/purchase/4297605/
+URL:https://vidiotsfoundation.org/purchase/4297605/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252666@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260707T023000Z
+DTEND:20260707T042000Z
+SUMMARY:Top Gun
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Tony Scott\nDetails: https://vidiotsfoundation.org/movies/top-gun/\nTickets: https://vidiotsfoundation.org/purchase/4252666/
+URL:https://vidiotsfoundation.org/purchase/4252666/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252668@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260708T023000Z
+DTEND:20260708T041700Z
+SUMMARY:Picnic at Hanging Rock
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Peter Weir\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-rock/\nTickets: https://vidiotsfoundation.org/purchase/4252668/
+URL:https://vidiotsfoundation.org/purchase/4252668/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4197656@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260710T023000Z
+DTEND:20260710T050600Z
+SUMMARY:The Wailing
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Na Hong-jin\nDetails: https://vidiotsfoundation.org/movies/the-wailing/\nTickets: https://vidiotsfoundation.org/purchase/4197656/
+URL:https://vidiotsfoundation.org/purchase/4197656/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252695@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260710T221500Z
+DTEND:20260711T005100Z
+SUMMARY:The Wailing
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Na Hong-jin\nDetails: https://vidiotsfoundation.org/movies/the-wailing/\nTickets: https://vidiotsfoundation.org/purchase/4252695/
+URL:https://vidiotsfoundation.org/purchase/4252695/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4267752@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T043000Z
+DTEND:20260712T061000Z
+SUMMARY:Maddie’s Secret
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: John Early\nDetails: https://vidiotsfoundation.org/movies/maddies-secret/\nTickets: https://vidiotsfoundation.org/purchase/4267752/
+URL:https://vidiotsfoundation.org/purchase/4267752/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252699@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260711T020000Z
+DTEND:20260711T041500Z
+SUMMARY:Waterworld
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Kevin Reynolds\nDetails: https://vidiotsfoundation.org/movies/waterworld/\nTickets: https://vidiotsfoundation.org/purchase/4252699/
+URL:https://vidiotsfoundation.org/purchase/4252699/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252700@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260711T045500Z
+DTEND:20260711T062500Z
+SUMMARY:Heavy Metal
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Details: https://vidiotsfoundation.org/movies/heavy-metal/\nTickets: https://vidiotsfoundation.org/purchase/4252700/
+URL:https://vidiotsfoundation.org/purchase/4252700/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252701@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260711T193000Z
+DTEND:20260711T211800Z
+SUMMARY:Night at the Museum
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Shawn Levy\nDetails: https://vidiotsfoundation.org/movies/night-at-the-museum/\nTickets: https://vidiotsfoundation.org/purchase/4252701/
+URL:https://vidiotsfoundation.org/purchase/4252701/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252705@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260711T224500Z
+DTEND:20260712T002600Z
+SUMMARY:Adam’s Rib
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: George Cukor\nDetails: https://vidiotsfoundation.org/movies/adams-rib/\nTickets: https://vidiotsfoundation.org/purchase/4252705/
+URL:https://vidiotsfoundation.org/purchase/4252705/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4267744@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260711T233000Z
+DTEND:20260712T005500Z
+SUMMARY:Coroner to the Stars
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ben Hethcoat\, Keita Ideno\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-stars/\nTickets: https://vidiotsfoundation.org/purchase/4267744/
+URL:https://vidiotsfoundation.org/purchase/4267744/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4215458@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T203000Z
+DTEND:20260712T215500Z
+SUMMARY:Coroner to the Stars
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ben Hethcoat\, Keita Ideno\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-stars/\nTickets: https://vidiotsfoundation.org/purchase/4215458/
+URL:https://vidiotsfoundation.org/purchase/4215458/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4215468@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T231500Z
+DTEND:20260713T004000Z
+SUMMARY:Coroner to the Stars
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ben Hethcoat\, Keita Ideno\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-stars/\nTickets: https://vidiotsfoundation.org/purchase/4215468/
+URL:https://vidiotsfoundation.org/purchase/4215468/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252707@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T013000Z
+DTEND:20260712T035200Z
+SUMMARY:Summer of Sam
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Spike Lee\nDetails: https://vidiotsfoundation.org/movies/summer-of-sam/\nTickets: https://vidiotsfoundation.org/purchase/4252707/
+URL:https://vidiotsfoundation.org/purchase/4252707/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252710@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T044500Z
+DTEND:20260712T061700Z
+SUMMARY:Clerks
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Kevin Smith\nDetails: https://vidiotsfoundation.org/movies/clerks/\nTickets: https://vidiotsfoundation.org/purchase/4252710/
+URL:https://vidiotsfoundation.org/purchase/4252710/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252714@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T200000Z
+DTEND:20260712T213300Z
+SUMMARY:Brave
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Brenda Chapman\, Mark Andrews\nDetails: https://vidiotsfoundation.org/movies/brave/\nTickets: https://vidiotsfoundation.org/purchase/4252714/
+URL:https://vidiotsfoundation.org/purchase/4252714/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252715@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260712T230000Z
+DTEND:20260713T002500Z
+SUMMARY:Godzilla vs. Hedorah
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Yoshimitsu Banno\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-hedorah/\nTickets: https://vidiotsfoundation.org/purchase/4252715/
+URL:https://vidiotsfoundation.org/purchase/4252715/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4215461@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260713T020000Z
+DTEND:20260713T034800Z
+SUMMARY:Eternal Sunshine of the Spotless Mind
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Michel Gondry\nDetails: https://vidiotsfoundation.org/movies/eternal-sunshine-of-the-spotless-mind/\nTickets: https://vidiotsfoundation.org/purchase/4215461/
+URL:https://vidiotsfoundation.org/purchase/4215461/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252726@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260714T023000Z
+DTEND:20260714T053300Z
+SUMMARY:The Deer Hunter
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Michael Cimino\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/\nTickets: https://vidiotsfoundation.org/purchase/4252726/
+URL:https://vidiotsfoundation.org/purchase/4252726/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4325769@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260715T020000Z
+DTEND:20260715T033000Z
+SUMMARY:ASCO: Without Permission
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Travis Gutiérrez Senger\nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/\nTickets: https://vidiotsfoundation.org/purchase/4325769/
+URL:https://vidiotsfoundation.org/purchase/4325769/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4325701@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260717T020000Z
+DTEND:20260717T033000Z
+SUMMARY:ASCO: Without Permission
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Travis Gutiérrez Senger\nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/\nTickets: https://vidiotsfoundation.org/purchase/4325701/
+URL:https://vidiotsfoundation.org/purchase/4325701/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297841@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T050000Z
+DTEND:20260718T063000Z
+SUMMARY:ASCO: Without Permission
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Travis Gutiérrez Senger\nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/\nTickets: https://vidiotsfoundation.org/purchase/4297841/
+URL:https://vidiotsfoundation.org/purchase/4297841/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4298063@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T223000Z
+DTEND:20260719T000000Z
+SUMMARY:ASCO: Without Permission
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Travis Gutiérrez Senger\nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/\nTickets: https://vidiotsfoundation.org/purchase/4298063/
+URL:https://vidiotsfoundation.org/purchase/4298063/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252730@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260715T023000Z
+DTEND:20260715T034600Z
+SUMMARY:Harry Dean Stanton: Partly Fiction
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Sophie Huber\nDetails: https://vidiotsfoundation.org/movies/harry-dean-stanton-partly-fiction/\nTickets: https://vidiotsfoundation.org/purchase/4252730/
+URL:https://vidiotsfoundation.org/purchase/4252730/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252731@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260716T023000Z
+DTEND:20260716T040300Z
+SUMMARY:Streets of Fire on 35mm
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Walter Hill\nDetails: https://vidiotsfoundation.org/movies/streets-of-fire/\nTickets: https://vidiotsfoundation.org/purchase/4252731/
+URL:https://vidiotsfoundation.org/purchase/4252731/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4301573@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260717T023000Z
+DTEND:20260717T050400Z
+SUMMARY:Amores Perros
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Alejandro González Iñárritu\nDetails: https://vidiotsfoundation.org/movies/amores-perros/\nTickets: https://vidiotsfoundation.org/purchase/4301573/
+URL:https://vidiotsfoundation.org/purchase/4301573/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252855@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260717T230000Z
+DTEND:20260718T010300Z
+SUMMARY:All That Jazz
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Bob Fosse\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/\nTickets: https://vidiotsfoundation.org/purchase/4252855/
+URL:https://vidiotsfoundation.org/purchase/4252855/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4307271@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260717T233000Z
+DTEND:20260718T011000Z
+SUMMARY:Unidentified
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Haifaa al-Mansour\nDetails: https://vidiotsfoundation.org/movies/unidentified/\nTickets: https://vidiotsfoundation.org/purchase/4307271/
+URL:https://vidiotsfoundation.org/purchase/4307271/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297840@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T023000Z
+DTEND:20260718T041000Z
+SUMMARY:Unidentified
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Haifaa al-Mansour\nDetails: https://vidiotsfoundation.org/movies/unidentified/\nTickets: https://vidiotsfoundation.org/purchase/4297840/
+URL:https://vidiotsfoundation.org/purchase/4297840/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4298064@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T013000Z
+DTEND:20260719T031000Z
+SUMMARY:Unidentified
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Haifaa al-Mansour\nDetails: https://vidiotsfoundation.org/movies/unidentified/\nTickets: https://vidiotsfoundation.org/purchase/4298064/
+URL:https://vidiotsfoundation.org/purchase/4298064/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4298073@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T043000Z
+DTEND:20260719T061000Z
+SUMMARY:Unidentified
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Haifaa al-Mansour\nDetails: https://vidiotsfoundation.org/movies/unidentified/\nTickets: https://vidiotsfoundation.org/purchase/4298073/
+URL:https://vidiotsfoundation.org/purchase/4298073/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4301565@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260721T020000Z
+DTEND:20260721T034000Z
+SUMMARY:Unidentified
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Haifaa al-Mansour\nDetails: https://vidiotsfoundation.org/movies/unidentified/\nTickets: https://vidiotsfoundation.org/purchase/4301565/
+URL:https://vidiotsfoundation.org/purchase/4301565/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252861@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T020000Z
+DTEND:20260718T035600Z
+SUMMARY:Speed
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jan de Bont\nDetails: https://vidiotsfoundation.org/movies/speed/\nTickets: https://vidiotsfoundation.org/purchase/4252861/
+URL:https://vidiotsfoundation.org/purchase/4252861/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4252862@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T044500Z
+DTEND:20260718T060600Z
+SUMMARY:Perfect Blue
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Satoshi Kon\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/\nTickets: https://vidiotsfoundation.org/purchase/4252862/
+URL:https://vidiotsfoundation.org/purchase/4252862/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253111@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260718T230000Z
+DTEND:20260719T002100Z
+SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebration of Celluloid
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Details: https://vidiotsfoundation.org/movies/celebration-of-celluloid/\nTickets: https://vidiotsfoundation.org/purchase/4253111/
+URL:https://vidiotsfoundation.org/purchase/4253111/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253110@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T020000Z
+DTEND:20260719T035600Z
+SUMMARY:Tootsie
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Sydney Pollack\nDetails: https://vidiotsfoundation.org/movies/tootsie/\nTickets: https://vidiotsfoundation.org/purchase/4253110/
+URL:https://vidiotsfoundation.org/purchase/4253110/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253112@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T044500Z
+DTEND:20260719T063400Z
+SUMMARY:The Thing
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: John Carpenter\nDetails: https://vidiotsfoundation.org/movies/the-thing/\nTickets: https://vidiotsfoundation.org/purchase/4253112/
+URL:https://vidiotsfoundation.org/purchase/4253112/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253142@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T200000Z
+DTEND:20260719T211800Z
+SUMMARY:The Emperor’s New Groove
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Mark Dindal\nDetails: https://vidiotsfoundation.org/movies/the-emperors-new-groove/\nTickets: https://vidiotsfoundation.org/purchase/4253142/
+URL:https://vidiotsfoundation.org/purchase/4253142/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4215011@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T203000Z
+DTEND:20260719T215700Z
+SUMMARY:The Popcorn List: Remaining Native
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Paige Bethmann\nDetails: https://vidiotsfoundation.org/movies/the-popcorn-list-remaining-native/\nTickets: https://vidiotsfoundation.org/purchase/4215011/
+URL:https://vidiotsfoundation.org/purchase/4215011/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253132@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T230000Z
+DTEND:20260720T005500Z
+SUMMARY:East of Eden
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Elia Kazan\nDetails: https://vidiotsfoundation.org/movies/east-of-eden/\nTickets: https://vidiotsfoundation.org/purchase/4253132/
+URL:https://vidiotsfoundation.org/purchase/4253132/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4215020@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260719T233000Z
+DTEND:20260720T010500Z
+SUMMARY:The Popcorn List: Trash Baby
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jacy Mairs\nDetails: https://vidiotsfoundation.org/movies/trash-baby/\nTickets: https://vidiotsfoundation.org/purchase/4215020/
+URL:https://vidiotsfoundation.org/purchase/4215020/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253143@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260720T020000Z
+DTEND:20260720T033900Z
+SUMMARY:Suspiria
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Dario Argento\nDetails: https://vidiotsfoundation.org/movies/suspiria/\nTickets: https://vidiotsfoundation.org/purchase/4253143/
+URL:https://vidiotsfoundation.org/purchase/4253143/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253144@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260721T023000Z
+DTEND:20260721T040400Z
+SUMMARY:Jamón Jamón
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Bigas Luna\nDetails: https://vidiotsfoundation.org/movies/jamon-jamon/\nTickets: https://vidiotsfoundation.org/purchase/4253144/
+URL:https://vidiotsfoundation.org/purchase/4253144/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4337912@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260722T020000Z
+DTEND:20260722T033000Z
+SUMMARY:Sweet 16mm – Rare Notes
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Details: https://vidiotsfoundation.org/movies/sweet-16mm-rare-notes/\nTickets: https://vidiotsfoundation.org/purchase/4337912/
+URL:https://vidiotsfoundation.org/purchase/4337912/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4270604@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260722T023000Z
+DTEND:20260722T040500Z
+SUMMARY:Cries and Whispers
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ingmar Bergman\nDetails: https://vidiotsfoundation.org/movies/cries-and-whispers/\nTickets: https://vidiotsfoundation.org/purchase/4270604/
+URL:https://vidiotsfoundation.org/purchase/4270604/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4270697@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260724T023000Z
+DTEND:20260724T041300Z
+SUMMARY:Zoot Suit
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Luis Valdez\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/\nTickets: https://vidiotsfoundation.org/purchase/4270697/
+URL:https://vidiotsfoundation.org/purchase/4270697/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297787@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260724T234500Z
+DTEND:20260725T011300Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297787/
+URL:https://vidiotsfoundation.org/purchase/4297787/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297789@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260725T023000Z
+DTEND:20260725T035800Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297789/
+URL:https://vidiotsfoundation.org/purchase/4297789/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297814@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T024500Z
+DTEND:20260726T041300Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297814/
+URL:https://vidiotsfoundation.org/purchase/4297814/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297815@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T051500Z
+DTEND:20260726T064300Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297815/
+URL:https://vidiotsfoundation.org/purchase/4297815/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297818@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T233000Z
+DTEND:20260727T005800Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297818/
+URL:https://vidiotsfoundation.org/purchase/4297818/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297819@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260727T023000Z
+DTEND:20260727T035800Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297819/
+URL:https://vidiotsfoundation.org/purchase/4297819/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4297838@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260728T020000Z
+DTEND:20260728T032800Z
+SUMMARY:Leviticus
+LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Adrian Chiarella\nDetails: https://vidiotsfoundation.org/movies/leviticus/\nTickets: https://vidiotsfoundation.org/purchase/4297838/
+URL:https://vidiotsfoundation.org/purchase/4297838/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4271083@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260725T020000Z
+DTEND:20260725T034600Z
+SUMMARY:Young Frankenstein
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Mel Brooks\nDetails: https://vidiotsfoundation.org/movies/young-frankenstein/\nTickets: https://vidiotsfoundation.org/purchase/4271083/
+URL:https://vidiotsfoundation.org/purchase/4271083/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253152@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260725T044500Z
+DTEND:20260725T063200Z
+SUMMARY:The Cell
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Tarsem Singh\nDetails: https://vidiotsfoundation.org/movies/the-cell/\nTickets: https://vidiotsfoundation.org/purchase/4253152/
+URL:https://vidiotsfoundation.org/purchase/4253152/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253153@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260725T230000Z
+DTEND:20260726T004200Z
+SUMMARY:A New Leaf
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Elaine May\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/\nTickets: https://vidiotsfoundation.org/purchase/4253153/
+URL:https://vidiotsfoundation.org/purchase/4253153/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253157@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T020000Z
+DTEND:20260726T035400Z
+SUMMARY:Three Kings on 35mm
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Details: https://vidiotsfoundation.org/movies/three-kings/\nTickets: https://vidiotsfoundation.org/purchase/4253157/
+URL:https://vidiotsfoundation.org/purchase/4253157/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4271084@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T044500Z
+DTEND:20260726T064200Z
+SUMMARY:Alien
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ridley Scott\nDetails: https://vidiotsfoundation.org/movies/alien/\nTickets: https://vidiotsfoundation.org/purchase/4271084/
+URL:https://vidiotsfoundation.org/purchase/4271084/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253161@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T193000Z
+DTEND:20260726T210700Z
+SUMMARY:Freaky Friday
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Mark Waters\nDetails: https://vidiotsfoundation.org/movies/freaky-friday/\nTickets: https://vidiotsfoundation.org/purchase/4253161/
+URL:https://vidiotsfoundation.org/purchase/4253161/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253162@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260726T223000Z
+DTEND:20260727T001200Z
+SUMMARY:Little Miss Sunshine
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jonathan Dayton\, Valerie Faris\nDetails: https://vidiotsfoundation.org/movies/little-miss-sunshine/\nTickets: https://vidiotsfoundation.org/purchase/4253162/
+URL:https://vidiotsfoundation.org/purchase/4253162/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4253163@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260727T020000Z
+DTEND:20260727T042000Z
+SUMMARY:Twin Peaks: The Original Mystery –  Episodes 1 + 2
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: David Lynch\, Duwayne Dunham\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-mystery-episodes-1-2/\nTickets: https://vidiotsfoundation.org/purchase/4253163/
+URL:https://vidiotsfoundation.org/purchase/4253163/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4254358@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260728T023000Z
+DTEND:20260728T043200Z
+SUMMARY:The Face of Another
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Hiroshi Teshigahara\nDetails: https://vidiotsfoundation.org/movies/the-face-of-another/\nTickets: https://vidiotsfoundation.org/purchase/4254358/
+URL:https://vidiotsfoundation.org/purchase/4254358/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4254360@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260729T023000Z
+DTEND:20260729T052100Z
+SUMMARY:The Unbearable Lightness of Being
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Philip Kaufman\nDetails: https://vidiotsfoundation.org/movies/the-unbearable-lightness-of-being/\nTickets: https://vidiotsfoundation.org/purchase/4254360/
+URL:https://vidiotsfoundation.org/purchase/4254360/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4270660@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260730T023000Z
+DTEND:20260730T043300Z
+SUMMARY:Interview with the Vampire on 35mm
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Neil Jordan\nDetails: https://vidiotsfoundation.org/movies/interview-with-the-vampire/\nTickets: https://vidiotsfoundation.org/purchase/4270660/
+URL:https://vidiotsfoundation.org/purchase/4270660/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4270663@justin-vidiots-calendar
+DTSTAMP:20260706T064701Z
+DTSTART:20260730T210000Z
+DTEND:20260730T230200Z
+SUMMARY:Network
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Sidney Lumet\nDetails: https://vidiotsfoundation.org/movies/network/\nTickets: https://vidiotsfoundation.org/purchase/4270663/
+URL:https://vidiotsfoundation.org/purchase/4270663/
+END:VEVENT
+END:VCALENDAR
