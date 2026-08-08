@@ -4,58 +4,8 @@ PRODID:-//justin//vidiots-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:vidiots-4368412@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260808T213000Z
-DTEND:20260809T003400Z
-SUMMARY:Woodstock on 35mm
-LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: Michael Wadleigh\nDetails: https://vidiotsfoundation.org/movies/woodstock/\nTickets: https://vidiotsfoundation.org/purchase/4368412/
-URL:https://vidiotsfoundation.org/purchase/4368412/
-END:VEVENT
-BEGIN:VEVENT
-UID:vidiots-4389646@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260808T233000Z
-DTEND:20260809T005300Z
-SUMMARY:Bouchra
-LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: Meriem Bennani\, Orian Barki\nDetails: https://vidiotsfoundation.org/movies/bouchra/\nTickets: https://vidiotsfoundation.org/purchase/4389646/
-URL:https://vidiotsfoundation.org/purchase/4389646/
-END:VEVENT
-BEGIN:VEVENT
-UID:vidiots-4389738@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260809T234500Z
-DTEND:20260810T010800Z
-SUMMARY:Bouchra
-LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: Meriem Bennani\, Orian Barki\nDetails: https://vidiotsfoundation.org/movies/bouchra/\nTickets: https://vidiotsfoundation.org/purchase/4389738/
-URL:https://vidiotsfoundation.org/purchase/4389738/
-END:VEVENT
-BEGIN:VEVENT
-UID:vidiots-4368431@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260809T020000Z
-DTEND:20260809T034400Z
-SUMMARY:Robin Hood: Men in Tights
-LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: Mel Brooks\nDetails: https://vidiotsfoundation.org/movies/robin-hood-men-in-tights/\nTickets: https://vidiotsfoundation.org/purchase/4368431/
-URL:https://vidiotsfoundation.org/purchase/4368431/
-END:VEVENT
-BEGIN:VEVENT
-UID:vidiots-4368451@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260809T044500Z
-DTEND:20260809T063500Z
-SUMMARY:Christine
-LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: John Carpenter\nDetails: https://vidiotsfoundation.org/movies/christine/\nTickets: https://vidiotsfoundation.org/purchase/4368451/
-URL:https://vidiotsfoundation.org/purchase/4368451/
-END:VEVENT
-BEGIN:VEVENT
 UID:vidiots-4365141@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260809T231500Z
 DTEND:20260810T004300Z
 SUMMARY:Rashomon
@@ -64,18 +14,8 @@ DESCRIPTION:Director: Akira Kurosawa\nDetails: https://vidiotsfoundation.org/mov
 URL:https://vidiotsfoundation.org/purchase/4365141/
 END:VEVENT
 BEGIN:VEVENT
-UID:vidiots-4437143@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260812T020000Z
-DTEND:20260812T034000Z
-SUMMARY:Maddie’s Secret
-LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: John Early\nDetails: https://vidiotsfoundation.org/movies/maddies-secret/\nTickets: https://vidiotsfoundation.org/purchase/4437143/
-URL:https://vidiotsfoundation.org/purchase/4437143/
-END:VEVENT
-BEGIN:VEVENT
 UID:vidiots-4393063@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T200000Z
 DTEND:20260815T213100Z
 SUMMARY:Mary Oliver: Saved by the Beauty of the World
@@ -85,7 +25,7 @@ URL:https://vidiotsfoundation.org/purchase/4393063/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393075@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T233000Z
 DTEND:20260817T010100Z
 SUMMARY:Mary Oliver: Saved by the Beauty of the World
@@ -95,7 +35,7 @@ URL:https://vidiotsfoundation.org/purchase/4393075/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4437288@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T203000Z
 DTEND:20260822T220100Z
 SUMMARY:Mary Oliver: Saved by the Beauty of the World
@@ -105,7 +45,7 @@ URL:https://vidiotsfoundation.org/purchase/4437288/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393028@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260814T234500Z
 DTEND:20260815T013200Z
 SUMMARY:The Invite
@@ -114,18 +54,8 @@ DESCRIPTION:Director: Olivia Wilde\nDetails: https://vidiotsfoundation.org/movie
 URL:https://vidiotsfoundation.org/purchase/4393028/
 END:VEVENT
 BEGIN:VEVENT
-UID:vidiots-4393031@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
-DTSTART:20260815T022000Z
-DTEND:20260815T040700Z
-SUMMARY:The Invite
-LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: Olivia Wilde\nDetails: https://vidiotsfoundation.org/movies/the-invite/\nTickets: https://vidiotsfoundation.org/purchase/4393031/
-URL:https://vidiotsfoundation.org/purchase/4393031/
-END:VEVENT
-BEGIN:VEVENT
 UID:vidiots-4338298@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T230000Z
 DTEND:20260816T004700Z
 SUMMARY:The Invite
@@ -135,7 +65,7 @@ URL:https://vidiotsfoundation.org/purchase/4338298/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4338293@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T043000Z
 DTEND:20260816T061700Z
 SUMMARY:The Invite
@@ -145,7 +75,7 @@ URL:https://vidiotsfoundation.org/purchase/4338293/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393087@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260817T023000Z
 DTEND:20260817T041700Z
 SUMMARY:The Invite
@@ -155,7 +85,7 @@ URL:https://vidiotsfoundation.org/purchase/4393087/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4368476@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T020000Z
 DTEND:20260815T035000Z
 SUMMARY:Magic Mike
@@ -165,7 +95,7 @@ URL:https://vidiotsfoundation.org/purchase/4368476/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4368484@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T044500Z
 DTEND:20260815T061500Z
 SUMMARY:Commando
@@ -175,7 +105,7 @@ URL:https://vidiotsfoundation.org/purchase/4368484/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393032@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T051500Z
 DTEND:20260815T063200Z
 SUMMARY:Lockjaw
@@ -185,7 +115,7 @@ URL:https://vidiotsfoundation.org/purchase/4393032/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4338292@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T020000Z
 DTEND:20260816T031700Z
 SUMMARY:Lockjaw
@@ -195,7 +125,7 @@ URL:https://vidiotsfoundation.org/purchase/4338292/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393064@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T193000Z
 DTEND:20260815T204800Z
 SUMMARY:A Goofy Movie
@@ -205,7 +135,7 @@ URL:https://vidiotsfoundation.org/purchase/4393064/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4398743@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260815T221500Z
 DTEND:20260815T235800Z
 SUMMARY:Scarlet Street
@@ -215,7 +145,7 @@ URL:https://vidiotsfoundation.org/purchase/4398743/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388406@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T044500Z
 DTEND:20260816T063400Z
 SUMMARY:An Evening with Edgar Wright: Beyond the Valley of the Dolls
@@ -225,7 +155,7 @@ URL:https://vidiotsfoundation.org/purchase/4388406/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388367@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T193000Z
 DTEND:20260816T211000Z
 SUMMARY:Ponyo (English Dubbed)
@@ -235,7 +165,7 @@ URL:https://vidiotsfoundation.org/purchase/4388367/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388358@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260816T223000Z
 DTEND:20260817T004100Z
 SUMMARY:A View to a Kill
@@ -245,7 +175,7 @@ URL:https://vidiotsfoundation.org/purchase/4388358/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4364993@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260817T020000Z
 DTEND:20260817T033300Z
 SUMMARY:The Off Hours
@@ -255,7 +185,7 @@ URL:https://vidiotsfoundation.org/purchase/4364993/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4389907@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260819T023000Z
 DTEND:20260819T041100Z
 SUMMARY:Welcome Space Brothers
@@ -265,7 +195,7 @@ URL:https://vidiotsfoundation.org/purchase/4389907/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392570@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260820T020000Z
 DTEND:20260820T034100Z
 SUMMARY:Welcome Space Brothers
@@ -275,7 +205,7 @@ URL:https://vidiotsfoundation.org/purchase/4392570/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392572@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T022000Z
 DTEND:20260822T040100Z
 SUMMARY:Welcome Space Brothers
@@ -285,7 +215,7 @@ URL:https://vidiotsfoundation.org/purchase/4392572/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4437277@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T050000Z
 DTEND:20260822T064100Z
 SUMMARY:Welcome Space Brothers
@@ -295,7 +225,7 @@ URL:https://vidiotsfoundation.org/purchase/4437277/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4437289@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T233000Z
 DTEND:20260823T011100Z
 SUMMARY:Welcome Space Brothers
@@ -305,7 +235,7 @@ URL:https://vidiotsfoundation.org/purchase/4437289/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4360544@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260820T023000Z
 DTEND:20260820T040000Z
 SUMMARY:Programme 4
@@ -315,7 +245,7 @@ URL:https://vidiotsfoundation.org/purchase/4360544/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4466487@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260821T020000Z
 DTEND:20260821T034000Z
 SUMMARY:Sweet 16mm – Those Awkward Years
@@ -325,7 +255,7 @@ URL:https://vidiotsfoundation.org/purchase/4466487/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392797@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260821T023000Z
 DTEND:20260821T043100Z
 SUMMARY:Volver on 35mm
@@ -335,7 +265,7 @@ URL:https://vidiotsfoundation.org/purchase/4392797/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388341@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260821T230000Z
 DTEND:20260822T004000Z
 SUMMARY:Ponyo (Japanese with English Subtitles)
@@ -345,7 +275,7 @@ URL:https://vidiotsfoundation.org/purchase/4388341/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392584@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260821T233000Z
 DTEND:20260822T011500Z
 SUMMARY:Mysterious Skin
@@ -355,7 +285,7 @@ URL:https://vidiotsfoundation.org/purchase/4392584/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4437290@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T022000Z
 DTEND:20260823T040500Z
 SUMMARY:Mysterious Skin
@@ -365,7 +295,7 @@ URL:https://vidiotsfoundation.org/purchase/4437290/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4470937@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260824T020000Z
 DTEND:20260824T034500Z
 SUMMARY:Mysterious Skin
@@ -375,7 +305,7 @@ URL:https://vidiotsfoundation.org/purchase/4470937/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388329@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T020000Z
 DTEND:20260822T035900Z
 SUMMARY:Dangerous Liaisons
@@ -385,7 +315,7 @@ URL:https://vidiotsfoundation.org/purchase/4388329/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388340@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T044500Z
 DTEND:20260822T061000Z
 SUMMARY:The Evil Dead on 35mm
@@ -395,7 +325,7 @@ URL:https://vidiotsfoundation.org/purchase/4388340/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392538@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T200000Z
 DTEND:20260822T212800Z
 SUMMARY:A Hard Day’s Night
@@ -405,7 +335,7 @@ URL:https://vidiotsfoundation.org/purchase/4392538/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4392536@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260822T230000Z
 DTEND:20260823T004100Z
 SUMMARY:Hunt for the Wilderpeople
@@ -415,7 +345,7 @@ URL:https://vidiotsfoundation.org/purchase/4392536/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388256@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T020000Z
 DTEND:20260823T034400Z
 SUMMARY:Mystic Pizza
@@ -425,7 +355,7 @@ URL:https://vidiotsfoundation.org/purchase/4388256/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388245@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T044500Z
 DTEND:20260823T062300Z
 SUMMARY:The Untamed
@@ -435,7 +365,7 @@ URL:https://vidiotsfoundation.org/purchase/4388245/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4437291@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T050000Z
 DTEND:20260823T063200Z
 SUMMARY:American Pachuco: The Legend of Luis Valdez
@@ -445,7 +375,7 @@ URL:https://vidiotsfoundation.org/purchase/4437291/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4470936@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T233000Z
 DTEND:20260824T010200Z
 SUMMARY:American Pachuco: The Legend of Luis Valdez
@@ -455,7 +385,7 @@ URL:https://vidiotsfoundation.org/purchase/4470936/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4368697@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T190000Z
 DTEND:20260823T203500Z
 SUMMARY:The Great Muppet Caper
@@ -465,7 +395,7 @@ URL:https://vidiotsfoundation.org/purchase/4368697/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4368696@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260823T220000Z
 DTEND:20260823T235500Z
 SUMMARY:La Strada
@@ -475,7 +405,7 @@ URL:https://vidiotsfoundation.org/purchase/4368696/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4428379@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260825T023000Z
 DTEND:20260825T041500Z
 SUMMARY:Bob & Carol & Ted & Alice
@@ -485,7 +415,7 @@ URL:https://vidiotsfoundation.org/purchase/4428379/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4398784@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260826T023000Z
 DTEND:20260826T035200Z
 SUMMARY:Jazz on a Summer’s Day
@@ -495,7 +425,7 @@ URL:https://vidiotsfoundation.org/purchase/4398784/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388738@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260828T023000Z
 DTEND:20260828T044000Z
 SUMMARY:The Grandmaster on 35mm
@@ -505,7 +435,7 @@ URL:https://vidiotsfoundation.org/purchase/4388738/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4444820@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260829T020000Z
 DTEND:20260829T034000Z
 SUMMARY:Dirty Dancing
@@ -515,7 +445,7 @@ URL:https://vidiotsfoundation.org/purchase/4444820/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393386@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260829T050000Z
 DTEND:20260829T063000Z
 SUMMARY:I Want Your Sex
@@ -525,7 +455,7 @@ URL:https://vidiotsfoundation.org/purchase/4393386/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4438388@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T023000Z
 DTEND:20260830T040000Z
 SUMMARY:I Want Your Sex
@@ -535,7 +465,7 @@ URL:https://vidiotsfoundation.org/purchase/4438388/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4438389@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T050000Z
 DTEND:20260830T063000Z
 SUMMARY:I Want Your Sex
@@ -545,7 +475,7 @@ URL:https://vidiotsfoundation.org/purchase/4438389/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4438437@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T230000Z
 DTEND:20260831T003000Z
 SUMMARY:I Want Your Sex
@@ -555,7 +485,7 @@ URL:https://vidiotsfoundation.org/purchase/4438437/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4438451@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260831T023000Z
 DTEND:20260831T040000Z
 SUMMARY:I Want Your Sex
@@ -565,7 +495,7 @@ URL:https://vidiotsfoundation.org/purchase/4438451/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4444822@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260829T044500Z
 DTEND:20260829T064900Z
 SUMMARY:Possession
@@ -575,7 +505,7 @@ URL:https://vidiotsfoundation.org/purchase/4444822/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4365503@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260829T200000Z
 DTEND:20260829T213000Z
 SUMMARY:Stop Motion Explosion! on 16mm
@@ -585,7 +515,7 @@ URL:https://vidiotsfoundation.org/purchase/4365503/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388710@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260829T230000Z
 DTEND:20260830T003700Z
 SUMMARY:Diary of a Chambermaid
@@ -595,7 +525,7 @@ URL:https://vidiotsfoundation.org/purchase/4388710/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388713@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T020000Z
 DTEND:20260830T035700Z
 SUMMARY:Alien
@@ -605,7 +535,7 @@ URL:https://vidiotsfoundation.org/purchase/4388713/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388709@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T193000Z
 DTEND:20260830T205300Z
 SUMMARY:Spirit: Stallion of the Cimarron
@@ -615,7 +545,7 @@ URL:https://vidiotsfoundation.org/purchase/4388709/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4428192@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260830T221500Z
 DTEND:20260831T004400Z
 SUMMARY:Guys and Dolls
@@ -625,7 +555,7 @@ URL:https://vidiotsfoundation.org/purchase/4428192/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4388667@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260831T020000Z
 DTEND:20260831T040700Z
 SUMMARY:Pride & Prejudice
@@ -635,7 +565,7 @@ URL:https://vidiotsfoundation.org/purchase/4388667/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4393414@justin-vidiots-calendar
-DTSTAMP:20260807T141448Z
+DTSTAMP:20260808T134836Z
 DTSTART:20260901T023000Z
 DTEND:20260901T041100Z
 SUMMARY:sex\, lies\, and videotape
