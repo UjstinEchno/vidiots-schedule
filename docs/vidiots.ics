@@ -4,18 +4,8 @@ PRODID:-//justin//vidiots-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:vidiots-4757612@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
-DTSTART:20261024T051500Z
-DTEND:20261024T065600Z
-SUMMARY:The History of Concrete
-LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-DESCRIPTION:Director: John Wilson\nDetails: https://vidiotsfoundation.org/movies/the-history-of-concrete/\nTickets: https://vidiotsfoundation.org/purchase/4757612/
-URL:https://vidiotsfoundation.org/purchase/4757612/
-END:VEVENT
-BEGIN:VEVENT
 UID:vidiots-4735523@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261015T023000Z
 DTEND:20261015T041000Z
 SUMMARY:Candyman
@@ -25,7 +15,7 @@ URL:https://vidiotsfoundation.org/purchase/4735523/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4679430@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261016T020000Z
 DTEND:20261016T032400Z
 SUMMARY:Outpost
@@ -35,7 +25,7 @@ URL:https://vidiotsfoundation.org/purchase/4679430/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4735498@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261018T044500Z
 DTEND:20261018T060900Z
 SUMMARY:Outpost
@@ -45,7 +35,7 @@ URL:https://vidiotsfoundation.org/purchase/4735498/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672364@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261016T023000Z
 DTEND:20261016T042800Z
 SUMMARY:The Witches of Eastwick
@@ -55,7 +45,7 @@ URL:https://vidiotsfoundation.org/purchase/4672364/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672376@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261017T200000Z
 DTEND:20261017T213500Z
 SUMMARY:Mad Monster Party?
@@ -65,7 +55,7 @@ URL:https://vidiotsfoundation.org/purchase/4672376/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672377@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261017T230000Z
 DTEND:20261018T004100Z
 SUMMARY:Breaking Away
@@ -75,7 +65,7 @@ URL:https://vidiotsfoundation.org/purchase/4672377/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672378@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261018T020000Z
 DTEND:20261018T032800Z
 SUMMARY:Videodrome
@@ -85,7 +75,7 @@ URL:https://vidiotsfoundation.org/purchase/4672378/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672379@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261018T043000Z
 DTEND:20261018T063400Z
 SUMMARY:Akira
@@ -95,7 +85,7 @@ URL:https://vidiotsfoundation.org/purchase/4672379/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672385@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261018T190000Z
 DTEND:20261018T203700Z
 SUMMARY:Escape to Witch Mountain
@@ -105,7 +95,7 @@ URL:https://vidiotsfoundation.org/purchase/4672385/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4751215@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261021T023000Z
 DTEND:20261021T051000Z
 SUMMARY:Nashville
@@ -115,7 +105,7 @@ URL:https://vidiotsfoundation.org/purchase/4751215/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4679487@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261022T023000Z
 DTEND:20261022T040600Z
 SUMMARY:Bones on 35mm
@@ -125,7 +115,7 @@ URL:https://vidiotsfoundation.org/purchase/4679487/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4703150@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261023T020000Z
 DTEND:20261023T032700Z
 SUMMARY:The Oldest Person in the World
@@ -135,7 +125,7 @@ URL:https://vidiotsfoundation.org/purchase/4703150/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4703169@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261023T233000Z
 DTEND:20261024T005700Z
 SUMMARY:The Oldest Person in the World
@@ -145,7 +135,7 @@ URL:https://vidiotsfoundation.org/purchase/4703169/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4703178@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T003000Z
 DTEND:20261025T015700Z
 SUMMARY:The Oldest Person in the World
@@ -155,7 +145,7 @@ URL:https://vidiotsfoundation.org/purchase/4703178/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4679492@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261024T020000Z
 DTEND:20261024T033100Z
 SUMMARY:A Nightmare on Elm Street
@@ -165,7 +155,7 @@ URL:https://vidiotsfoundation.org/purchase/4679492/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757608@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261024T022000Z
 DTEND:20261024T042300Z
 SUMMARY:Colony
@@ -175,7 +165,7 @@ URL:https://vidiotsfoundation.org/purchase/4757608/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757625@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T030000Z
 DTEND:20261025T050300Z
 SUMMARY:Colony
@@ -185,7 +175,7 @@ URL:https://vidiotsfoundation.org/purchase/4757625/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757646@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T233000Z
 DTEND:20261026T013300Z
 SUMMARY:Colony
@@ -195,7 +185,7 @@ URL:https://vidiotsfoundation.org/purchase/4757646/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757649@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261026T023000Z
 DTEND:20261026T043300Z
 SUMMARY:Colony
@@ -205,7 +195,7 @@ URL:https://vidiotsfoundation.org/purchase/4757649/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757701@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261027T020000Z
 DTEND:20261027T040300Z
 SUMMARY:Colony
@@ -215,7 +205,7 @@ URL:https://vidiotsfoundation.org/purchase/4757701/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4679845@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261024T044500Z
 DTEND:20261024T063000Z
 SUMMARY:Mimic
@@ -225,7 +215,7 @@ URL:https://vidiotsfoundation.org/purchase/4679845/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672394@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261024T201500Z
 DTEND:20261024T214600Z
 SUMMARY:Hotel Transylvania
@@ -235,7 +225,7 @@ URL:https://vidiotsfoundation.org/purchase/4672394/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672396@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261024T230000Z
 DTEND:20261025T001600Z
 SUMMARY:The Nightmare Before Christmas
@@ -245,7 +235,7 @@ URL:https://vidiotsfoundation.org/purchase/4672396/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672419@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261030T233000Z
 DTEND:20261031T004600Z
 SUMMARY:The Nightmare Before Christmas
@@ -255,7 +245,7 @@ URL:https://vidiotsfoundation.org/purchase/4672419/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4698519@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T044500Z
 DTEND:20261025T062000Z
 SUMMARY:Def by Temptation
@@ -265,7 +255,7 @@ URL:https://vidiotsfoundation.org/purchase/4698519/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4698559@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T180000Z
 DTEND:20261025T200000Z
 SUMMARY:Día de los Muertos Celebration
@@ -275,7 +265,7 @@ URL:https://vidiotsfoundation.org/purchase/4698559/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672403@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T200000Z
 DTEND:20261025T214500Z
 SUMMARY:Coco en Español
@@ -285,7 +275,7 @@ URL:https://vidiotsfoundation.org/purchase/4672403/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672401@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261025T230000Z
 DTEND:20261026T005500Z
 SUMMARY:E.T. the Extra-Terrestrial on 35mm
@@ -295,7 +285,7 @@ URL:https://vidiotsfoundation.org/purchase/4672401/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675667@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261027T023000Z
 DTEND:20261027T040500Z
 SUMMARY:Insiang
@@ -305,7 +295,7 @@ URL:https://vidiotsfoundation.org/purchase/4675667/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675405@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261028T023000Z
 DTEND:20261028T043700Z
 SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
@@ -315,7 +305,7 @@ URL:https://vidiotsfoundation.org/purchase/4675405/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672423@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261029T023000Z
 DTEND:20261029T041800Z
 SUMMARY:Ginger Snaps
@@ -325,7 +315,7 @@ URL:https://vidiotsfoundation.org/purchase/4672423/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672421@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261030T023000Z
 DTEND:20261030T040700Z
 SUMMARY:An American Werewolf in London
@@ -335,7 +325,7 @@ URL:https://vidiotsfoundation.org/purchase/4672421/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672424@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261031T020000Z
 DTEND:20261031T034400Z
 SUMMARY:Practical Magic
@@ -345,7 +335,7 @@ URL:https://vidiotsfoundation.org/purchase/4672424/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4757991@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261031T023000Z
 DTEND:20261031T040000Z
 SUMMARY:The Restoration at Grayson Manor
@@ -355,7 +345,7 @@ URL:https://vidiotsfoundation.org/purchase/4757991/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4758023@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261101T022000Z
 DTEND:20261101T035000Z
 SUMMARY:The Restoration at Grayson Manor
@@ -365,7 +355,7 @@ URL:https://vidiotsfoundation.org/purchase/4758023/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4672425@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261031T044500Z
 DTEND:20261031T064000Z
 SUMMARY:Audition
@@ -375,7 +365,7 @@ URL:https://vidiotsfoundation.org/purchase/4672425/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675365@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Vidiots Annual “Unscary” Halloween
@@ -385,7 +375,7 @@ URL:https://vidiotsfoundation.org/purchase/4675365/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675363@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261031T231500Z
 DTEND:20261101T003000Z
 SUMMARY:Bride of Frankenstein
@@ -395,7 +385,7 @@ URL:https://vidiotsfoundation.org/purchase/4675363/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675239@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261101T020000Z
 DTEND:20261101T033100Z
 SUMMARY:Halloween
@@ -405,7 +395,7 @@ URL:https://vidiotsfoundation.org/purchase/4675239/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4675360@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261101T044500Z
 DTEND:20261101T060800Z
 SUMMARY:The Texas Chain Saw Massacre
@@ -415,12 +405,132 @@ URL:https://vidiotsfoundation.org/purchase/4675360/
 END:VEVENT
 BEGIN:VEVENT
 UID:vidiots-4788988@justin-vidiots-calendar
-DTSTAMP:20261012T213758Z
+DTSTAMP:20261013T194721Z
 DTSTART:20261102T001500Z
 DTEND:20261102T021100Z
 SUMMARY:Remake
 LOCATION:Vidiots\, 2											 - Vidiots' intimate 35-seat microcinema\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 DESCRIPTION:Director: Ross McElwee\nDetails: https://vidiotsfoundation.org/movies/remake/\nTickets: https://vidiotsfoundation.org/purchase/4788988/
 URL:https://vidiotsfoundation.org/purchase/4788988/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4788977@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261102T030000Z
+DTEND:20261102T043100Z
+SUMMARY:Macario
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Roberto Gavaldón\nDetails: https://vidiotsfoundation.org/movies/macario/\nTickets: https://vidiotsfoundation.org/purchase/4788977/
+URL:https://vidiotsfoundation.org/purchase/4788977/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815373@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261107T203000Z
+DTEND:20261107T220300Z
+SUMMARY:Porco Rosso (English Dubbed)
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Hayao Miyazaki\nDetails: https://vidiotsfoundation.org/movies/porco-rosso-english-dubbed/\nTickets: https://vidiotsfoundation.org/purchase/4815373/
+URL:https://vidiotsfoundation.org/purchase/4815373/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815598@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261114T001500Z
+DTEND:20261114T014800Z
+SUMMARY:Porco Rosso (Japanese with English Subtitles)
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Hayao Miyazaki\nDetails: https://vidiotsfoundation.org/movies/porco-rosso-japanese-with-english-subtitles/\nTickets: https://vidiotsfoundation.org/purchase/4815598/
+URL:https://vidiotsfoundation.org/purchase/4815598/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815600@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261114T030000Z
+DTEND:20261114T043700Z
+SUMMARY:Blood Simple
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Ethan Coen\, Joel Coen\nDetails: https://vidiotsfoundation.org/movies/blood-simple/\nTickets: https://vidiotsfoundation.org/purchase/4815600/
+URL:https://vidiotsfoundation.org/purchase/4815600/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815625@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261115T054500Z
+DTEND:20261115T071300Z
+SUMMARY:Stop Making Sense
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jonathan Demme\nDetails: https://vidiotsfoundation.org/movies/stop-making-sense-1984/\nTickets: https://vidiotsfoundation.org/purchase/4815625/
+URL:https://vidiotsfoundation.org/purchase/4815625/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815635@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261115T210000Z
+DTEND:20261115T221600Z
+SUMMARY:The Care Bears Movie
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Arna Selznick\nDetails: https://vidiotsfoundation.org/movies/the-care-bears-movie/\nTickets: https://vidiotsfoundation.org/purchase/4815635/
+URL:https://vidiotsfoundation.org/purchase/4815635/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815640@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261116T030000Z
+DTEND:20261116T045500Z
+SUMMARY:Tampopo
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jūzō Itami\nDetails: https://vidiotsfoundation.org/movies/tampopo/\nTickets: https://vidiotsfoundation.org/purchase/4815640/
+URL:https://vidiotsfoundation.org/purchase/4815640/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815520@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261122T024500Z
+DTEND:20261122T051000Z
+SUMMARY:Paris\, Texas
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Wim Wenders\nDetails: https://vidiotsfoundation.org/movies/paris-texas/\nTickets: https://vidiotsfoundation.org/purchase/4815520/
+URL:https://vidiotsfoundation.org/purchase/4815520/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815443@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261125T033000Z
+DTEND:20261125T052700Z
+SUMMARY:The Last Waltz
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Martin Scorsese\nDetails: https://vidiotsfoundation.org/movies/the-last-waltz/\nTickets: https://vidiotsfoundation.org/purchase/4815443/
+URL:https://vidiotsfoundation.org/purchase/4815443/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815406@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261128T030000Z
+DTEND:20261128T044400Z
+SUMMARY:Desperately Seeking Susan
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Susan Seidelman\nDetails: https://vidiotsfoundation.org/movies/desperately-seeking-susan/\nTickets: https://vidiotsfoundation.org/purchase/4815406/
+URL:https://vidiotsfoundation.org/purchase/4815406/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815407@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261128T054500Z
+DTEND:20261128T072700Z
+SUMMARY:Enter the Dragon
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Robert Clouse\nDetails: https://vidiotsfoundation.org/movies/enter-the-dragon/\nTickets: https://vidiotsfoundation.org/purchase/4815407/
+URL:https://vidiotsfoundation.org/purchase/4815407/
+END:VEVENT
+BEGIN:VEVENT
+UID:vidiots-4815432@justin-vidiots-calendar
+DTSTAMP:20261013T194721Z
+DTSTART:20261129T030000Z
+DTEND:20261129T045300Z
+SUMMARY:Twister
+LOCATION:Vidiots\, 1											 - Vidiots' main auditorium with 271 seats\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+DESCRIPTION:Director: Jan de Bont\nDetails: https://vidiotsfoundation.org/movies/twister/\nTickets: https://vidiotsfoundation.org/purchase/4815432/
+URL:https://vidiotsfoundation.org/purchase/4815432/
 END:VEVENT
 END:VCALENDAR
